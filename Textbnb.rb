@@ -1,4 +1,4 @@
-#iteration #0
+#iteration #0 test de git
 class Home
   attr_reader(:name, :city, :capacity, :price)
 
